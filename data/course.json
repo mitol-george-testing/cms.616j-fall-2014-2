@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1c8c58bb-aee0-a71d-8fc6-edac01b07d0d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Games and Culture",
+  "course_description": "This course examines the social, cultural, economic, and political aspects of digital games. Topics include the socio-technical aspects of digital gaming, embodiment and space, communities, spectatorship and performance, gender, race, sexuality, e-sports and sports games, and the politics and economics of production processes, including co-creation and intellectual property.\n",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "21W.768,WGS.125,CMS.868",
+  "primary_course_number": "CMS.616J",
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
